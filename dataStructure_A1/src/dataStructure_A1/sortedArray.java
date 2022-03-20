@@ -1,11 +1,6 @@
 /******************************************************************************************* 
 Purpose/Description: Sorting an array of integer that include duplicate elements. Methods
 include a sub-linear running time complexity to find the number of occurrences of the input.
-
-Author’s Panther ID: 6194506
-
-Certification:
-I hereby certify that this work is my own and none of it is the work of any other person.
 *******************************************************************************************/
 
 package dataStructure_A1;
