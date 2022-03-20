@@ -1,10 +1,5 @@
 /******************************************************************************************* 
 Purpose/Description: Implementing a sub-linear running complexity recursive function. 
-
-Author’s Panther ID: 6194506
-
-Certification:
-I hereby certify that this work is my own and none of it is the work of any other person.
 *******************************************************************************************/
 
 package dataStructure_A1;
